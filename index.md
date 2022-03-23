@@ -71,7 +71,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-<h3>Registration for this workshop opens April 8, 2022 at 8:00 AM PST</h3>
+<h3>Registration for this workshop opens April 15, 2022 at 8:00 AM PST</h3>
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
