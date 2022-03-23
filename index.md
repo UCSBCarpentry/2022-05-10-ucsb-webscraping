@@ -409,7 +409,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described on the <a href="https://github.com/UCSBCarpentry/2022-05-10-ucsb-webscraping/setup.html"><strong>Setup Page</strong></a>.
+  you will need access to software as described on the <a href="https://ucsbcarpentry.github.io/2022-05-10-ucsb-webscraping/setup/"><strong>Setup Page</strong></a>.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
