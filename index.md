@@ -182,7 +182,12 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
     Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.   
+    As webscraping is a technique to extract data from web pages, it requires some understanding of the technologies that are used to display information on the web.   
+    This lesson therefore assumes that learners will have some familiarity with HTML and the Document Object Model (DOM).   
+    The first part of this lesson will use browser extensions to introduce the concepts of web scraping as well as introduce the XPath syntax for selecting elements
+    on a web page and requires no further specific knowledge. The second part will introduce the use of specialized libraries to scrape websites by writing custom
+    computer programs and will require some familiarity with the Python programming language and object-oriented programming.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
