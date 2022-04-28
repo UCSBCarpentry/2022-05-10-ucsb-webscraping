@@ -9,8 +9,12 @@ In order to follow this lesson, you will need to make sure the following softwar
 
 For the first half of the lesson, we will use a Chrome browser extension to get started with web scraping.
 
-1. Please ensure you have a working copy of the [Chrome browser](https://www.google.com/intl/en/chrome/browser/).
-2. Using Chrome, download and enable the [Scraper extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd).
+1. Open Google Chrome and click on Chrome Web Store
+
+2. Search for “Scraper” in extensions and the first search result should be the “Scraper” extension. Alternatively, you may or click on this link [Scraper extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+3. Click the add to chrome button.
+
 
 ## Part two: Write Python programs to automatically scrape data
 
